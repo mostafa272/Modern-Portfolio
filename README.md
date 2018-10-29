@@ -66,7 +66,11 @@ flexible with customizable settings ( See screenshot images ).
 
   10. Readmore Text: A text for readmore button.
 
-  Other options are used for showing or hiding posts items.
+  Other options are used for showing or hiding posts items.                           
+  
+ ## Demo                       
+ 
+ https://github.com/mostafa272/Modern-Portfolio/wiki/Demo                           
                                    
                                    
  ## The plugin page at wordpress.org: 
